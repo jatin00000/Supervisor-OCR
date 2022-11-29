@@ -1,0 +1,6 @@
+flask
+numpy
+opencv-python
+matplotlib
+pytesseract
+mysql-connector-python

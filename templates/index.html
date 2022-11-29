@@ -1,0 +1,40 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+    {% if upload %}
+        <div class="container">
+            <br><br>
+            <table>
+                <tr>
+                    <td>
+                        <img class="rounded float-left img-fluid" src="/static/upload/{{ ImageUpload }}" alt="" style="border: 2px solid white;">
+                    </td>
+                    <td>
+                        <img class="rounded float-right img-fluid" src="/static/predict/{{ ImageUpload }}" alt="" style="border: 2px solid white;">
+                    </td>
+                </tr>
+
+            </table>
+            <br>
+            <table style="border: transparent; width: 100%;">
+                <tr style="border: transparent; background-color: aliceblue; text-align: center;">
+                    <th>Number of Licence Plate Detected = {{num}}</th>
+                </tr>
+                
+                    {% for lic in ListOfText %}
+                    <tr style="border: transparent">
+                    <td style="background-color: #FFDF64; color: #2D7DD2;font-size: 24px;text-align: center;">
+                        <p class="display-8"> {{ lic }}</p>
+                    </td>
+                    </tr>
+                    {% endfor %}
+                
+            </table>
+
+        </div>
+    
+    
+    
+    {% endif %}
+
+{% endblock  %}
