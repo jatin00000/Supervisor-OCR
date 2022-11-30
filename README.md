@@ -35,8 +35,8 @@ And installation for Mac [link](https://youtu.be/ezUCZiMXB20) and windows [link]
     + Download all the code in this folder.
     + Open your mac or windows terminal in this folder.
     + Type following command and press enter:
-      +  <p style="background-color: Black; width: 500px">pip install -r .\requirement.txt</p>
-      + Pip will automatically install all the necessary modules from requirement.txt.
+      + `pip install -r .\requirement.txt`
+      + Pip will automatically install all the necessary modules from requirement.txt. <br/>
 ![4Untitled](https://user-images.githubusercontent.com/94428262/204727012-d1c0de2d-7d31-4c55-bdee-097c7ddbb97b.png)
 
 - - -
@@ -44,7 +44,7 @@ And installation for Mac [link](https://youtu.be/ezUCZiMXB20) and windows [link]
 Install all the Dependencies stated above in document.<br>
 + Open the folder Supervisor in your mac or windows terminal
 + Write following command and press enter <br>
-  <p style="background-color: Black; width: 200px">python app.py</p>
+  `python app.py`
 
 + Server will start running
   ![](6Untitled.png)
