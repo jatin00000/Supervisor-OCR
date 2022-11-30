@@ -20,8 +20,7 @@ Mac [link](https://www.youtube.com/watch?v=7S_tz1z_5bA&t=290s) <br/>
 Windows [link](https://www.youtube.com/watch?v=7S_tz1z_5bA&t=588s) <br/>
 Then in go to app.py file and open it in any text editor like sublime or VS Code. Type 
 your MySQL user name and password at place shown below <br/>
-![3Untitled](https://user-images.githubusercontent.com/94428262/204727044-fb21816d-aef3-4624-99fb-3f664840943e.png)<br/>
-<br>
+
 - Tesseract-OCR for reading text from image.Download it from [here](https://osdn.net/projects/sfnet_tesseract-ocr-alt/downloads/tesseract-ocr-setup-3.02.02.exe/).<br>
 Follow the following installation part from [link](https://youtu.be/Rb93uLXiTwA).<br>
 <br>
