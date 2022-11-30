@@ -51,6 +51,6 @@ Install all the Dependencies stated above in document.<br>
 + Now Enjoy the Application. 🍵
 
 - - -
-<div align="center">For More details, refer Our <a href="#">Design Document</a><br/></div>
+<div align="center">For More details, refer Our <a href="https://github.com/jatin00000/Supervisor-OCR/blob/main/Design%20Document.pdf">Design Document</a><br/></div>
 <div align="center">😄Have a Good Day😄</div>
 
