@@ -23,11 +23,9 @@ your MySQL user name and password at place shown below <br/>
 ![3Untitled](https://user-images.githubusercontent.com/94428262/204728432-bb213653-3dc3-4118-b867-789b947feaea.png)
 - Tesseract OCR for reading text from image.Download it from [here](https://osdn.net/projects/sfnet_tesseract-ocr-alt/downloads/tesseract-ocr-setup-3.02.02.exe/).<br>
 Follow the following installation part from [link](https://youtu.be/Rb93uLXiTwA).<br>
-<br>
 - Python language to run the software.
 Download python from [here](https://www.python.org/downloads/) <br>
 And installation for Mac [link](https://youtu.be/ezUCZiMXB20) and windows [link](https://youtu.be/Kn1HF3oD19c) <br>
-<br>
 - Python Modules for running our application.  <br>
     Follow this steps: 
   - Create a folder name as ‘Supervisor’.
